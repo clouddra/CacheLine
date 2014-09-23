@@ -1,4 +1,4 @@
-CacheLine and matrix multiplication
+cache line and matrix multiplication
 =========
 
 Performance optimisation of matrix multiplication with SIMD instructions and cache line detection 
